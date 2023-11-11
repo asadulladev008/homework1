@@ -1,0 +1,150 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: monospace;
+}
+.h1_class_one {
+  border: 3px solid black;
+  text-align: center;
+  margin-top: 50px;
+  font-family: cursive;
+  margin-bottom: 60px;
+}
+.head_img {
+  display: flex;
+}
+.image {
+  background-image: url("./assets/images/restaran1.jpg");
+  width: 600px;
+  height: 400px;
+  margin-left: 50px;
+}
+.image button {
+  margin-top: 250px;
+  margin-left: 30px;
+  height: 50px;
+  width: 130px;
+  border-radius: 10px;
+  color: white;
+  background-color: brown;
+}
+.image button :hover {
+  background-color: aqua;
+}
+.image button a {
+  color: white;
+  text-decoration: none;
+}
+.image p {
+  font-family: monospace;
+  color: white;
+  font-size: 20px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.image2 {
+  background-image: url("./assets/images/lali5.jpg");
+  width: 600px;
+  height: 400px;
+  margin-left: 20px;
+}
+.image2 button {
+  margin-top: 250px;
+  margin-left: 30px;
+  height: 50px;
+  width: 130px;
+  border-radius: 10px;
+  color: white;
+  background-color: brown;
+}
+.image2 button :hover {
+  background-color: aqua;
+}
+.image2 button a {
+  color: white;
+  text-decoration: none;
+}
+.image2 p {
+  font-family: monospace;
+  color: white;
+  font-size: 20px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.body_div {
+  display: flex;
+}
+.one_div {
+  background-image: url("./assets/images/ovqat\ 3.jpg");
+  height: 200px;
+  width: 400px;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+.two_div {
+  background-image: url("./assets/images/shirinlik\ 4.JPG");
+  height: 200px;
+  width: 400px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.three_div {
+  background-image: url("./assets/images/restaran\ 2.jpg");
+  height: 200px;
+  width: 400px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.one_div button {
+  margin-top: 220px;
+  height: 40px;
+  width: 100px;
+  background-color: aqua;
+}
+.one_div button a {
+  color: white;
+  text-decoration: none;
+}
+.p1 {
+  font-size: 15px;
+  display: inline;
+  margin-left: 10px;
+}
+.p2 {
+  font-size: 20px;
+  margin-top: 15px;
+}
+.two_div button {
+  margin-top: 220px;
+  height: 40px;
+  width: 100px;
+  background-color: rgb(3, 4, 4);
+}
+.two_div button a {
+  color: white;
+  text-decoration: none;
+}
+.two_div p {
+  font-size: 20px;
+  color: black;
+  margin-top: 20px;
+}
+.three_div button {
+  margin-top: 220px;
+  height: 40px;
+  width: 100px;
+  background-color: aqua;
+}
+.three_div button a {
+  color: white;
+  text-decoration: none;
+}
+.p1 {
+  font-size: 15px;
+  display: inline;
+  margin-left: 10px;
+}
+.p2 {
+  font-size: 20px;
+  margin-top: 15px;
+}
